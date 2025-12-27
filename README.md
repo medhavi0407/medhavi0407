@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **medhavisaxena0407@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/16uNitGusRGMQBZA3G-PJWf7mzQviqZcKsdUEcd7t7pk/edit?usp=sharing](https://docs.google.com/document/d/16uNitGusRGMQBZA3G-PJWf7mzQviqZcKsdUEcd7t7pk/edit?usp=sharing)
+- 📄 Know about my experiences [https://docs.google.com/document/d/16uNitGusRGMQBZA3G-PJWf7mzQviqZcKsdUEcd7t7pk/edit?usp=sharing](https://drive.google.com/file/d/1hLvY3896H3hLfm5HNtwvTg1ztHGs8aqJ/view?usp=sharing)
 
 - ⚡ Fun fact **I love dancing and singing**
 
