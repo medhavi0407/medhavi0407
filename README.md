@@ -4,9 +4,6 @@
 
 </div>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=800&color=8B5CF6&center=true&vCenter=true&multiline=false&random=false&width=650&height=60&lines=🤖+Built+a+Hospital+Robot+AI+System;🎨+Frontend+Developer+%7C+UI+Enthusiast;🌐+Exploring+Full+Stack+%26+Backend;✨+Turning+Ideas+into+Reality;💃+Dancer+%7C+Singer+%7C+Creator" alt="Typing SVG" />
-</div>
 
 <br/>
 
